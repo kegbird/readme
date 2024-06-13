@@ -1,5 +1,4 @@
-# Few words about me 
-
+# Few words about me 🙂
 Hello,
 
 I'm Pietro Prebianca, a software developer 💻 from Italy 🇮🇹.
@@ -8,7 +7,7 @@ Since 2016, I have been studying videogames 🎮 from both a technical and desig
 
 I'm all about videogames.
 
-# Work and other activities
+# Work and other activities 🧑‍💻
 
 I work from May 2022, mainly, as back-end developer: technically speaking, I use Springboot.
 Dealing with webservice, inevitably there is the need of some sort of dbms: currently I'm working a lot
@@ -18,7 +17,6 @@ every project is involved.
 
 Beside my main work, I coordinate a small game dev group called "Lazy Duck Games".
 In this group, I am the head leader, which means:
-
 
 Currently, We are following three projects:
 
