@@ -4,6 +4,7 @@ Hello,
 
 I'm Pietro Prebianca, a software developer from Italy.
 Since 2016, I have been studying videogames from both a technical and design point of view.
+
 I'm all about videogames.
 
 # Work and other activities
