@@ -10,3 +10,5 @@ But yes, I'm all about videogames.
 
 # Work and other activities
 
+I work from May 2022, mainly, as back-end developer: technically speaking, I use Springboot.
+
